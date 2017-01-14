@@ -1,0 +1,19 @@
+<?php
+
+class Test {
+
+	
+	privated a = [];
+
+	public function __consrtuct()
+	{
+
+
+	}
+
+	}
+
+
+
+
+?>
